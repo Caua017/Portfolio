@@ -29,14 +29,5 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 ---
 
-<h2> {/} Autor</h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Caua017">
-        <br>
-      </a>
-    </td>
-  </tr>
-</table>
+

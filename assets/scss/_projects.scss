@@ -20,7 +20,7 @@
       flex-wrap: wrap;
       text-align: left;
 
-      .teslabank {
+      .banco{
         border: 1px solid #e51d37;
 
         &:hover {
@@ -28,7 +28,7 @@
         }
       }
 
-      .naped {
+      .carrinho{
         border: 1px solid #00a3ff;
 
         &:hover {
@@ -36,21 +36,18 @@
         }
       }
 
-      .efront {
-        border: 1px solid #a6fb98;
-
+      
         &:hover {
           border: 1px solid #a6fb98;
         }
-      }
+      
 
-      .steam {
-        border: 1px solid #536fed;
+
 
         &:hover {
           border: 1px solid #536fed;
         }
-      }
+      
 
       > article {
         @include block-article;
